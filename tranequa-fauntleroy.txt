@@ -1,4 +1,4 @@
-CodePen link: 
+CodePen link: https://codepen.io/TraNequa/pen/gOWrPbw?editors=1100
 
 Questions:
     1. What is Semantic HTML?
